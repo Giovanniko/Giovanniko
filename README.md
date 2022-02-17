@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Giovanniko
+- 👋 Hi, I’m Jonathan J. Koefman@Giovanniko
 - 👀 I’m interested in Machine Learning and its application to Robotics
 - 🌱 I’m currently learning Machine Learning with Python
 - 💞️ I’m looking to collaborate on fixing bugs and documentation in ML projects
